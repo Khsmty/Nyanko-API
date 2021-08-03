@@ -1,0 +1,14 @@
+{
+  "name": "Nyanko-API",
+  "version": "0.0.1",
+  "description": "にゃんこ大戦争のデータAPI",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.js",
+    "format": "yarn prettier -w ."
+  },
+  "devDependencies": {
+    "prettier": "2.3.2"
+  }
+}

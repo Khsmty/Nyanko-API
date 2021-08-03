@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ネコ",
+    "description": "安価で生産できる基本キャラ",
+    "image": "https://img.game8.jp/1673869/24fa78c73f323fbe5e4eee4831ab7094.jpeg/show?1528339948",
+    "health": 4450,
+    "attack": 355,
+    "dps": 288,
+    "range": 1,
+    "kb": 3,
+    "speed": 10,
+    "reach": 140,
+    "cost": 75,
+    "frequency": 37,
+    "animation": 8,
+    "again": 60,
+    "ability": [],
+    "attribute": []
+  },
+  {},
+  {}
+]
