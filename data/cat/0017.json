@@ -1,0 +1,38 @@
+[
+  {
+    "name": "もねこ",
+    "description": "アイドルを夢見る萌え型にゃんこ\n地元の応援に応えるべく\n今日も各地で歌います（たまにクリティカル）",
+    "image": "https://img.game8.jp/1673894/d89cd158dc41e066ef4d703d8898b9fd.jpeg/show",
+    "health": 1500,
+    "attack": 1000,
+    "dps": 236,
+    "range": 1,
+    "kb": 4,
+    "speed": 5,
+    "reach": 160,
+    "cost": 148,
+    "frequency": 127,
+    "animation": 28,
+    "again": 1744,
+    "ability": [{"index": 7,"percent": 15,"t1": null,"t2": null}],
+    "attribute": [{"index": null,"percent": null}]
+  },
+  {
+    "name": "スターもねこ",
+    "description": "スターに上り詰めた国民的アイドルにゃんこ\nそれでも一人一人のファンを大切にする\nアイドル界のかがみ的な存在（たまにクリティカル）",
+    "image": "https://img.game8.jp/1673897/13ba263799a48097e82fb4b06dce53e5.jpeg/show",
+    "health": 2500,
+    "attack": 1000,
+    "dps": 236,
+    "range": 1,
+    "kb": 4,
+    "speed": 5,
+    "reach": 160,
+    "cost": 148,
+    "frequency": 127,
+    "animation": 28,
+    "again": 1744,
+    "ability": [{"index": 7,"percent": 15,"t1": null,"t2": null}],
+    "attribute": [{"index": null,"percent": null}]
+  },
+]

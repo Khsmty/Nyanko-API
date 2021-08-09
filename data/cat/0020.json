@@ -1,0 +1,68 @@
+[
+  {
+    "name": "ネコゾンビ",
+    "description": "ゾンビメイクを施した戦闘向き高級ユニット\nネコフィッシュよりも扱いやすい\n赤い敵にめっぽう強い",
+    "image": "https://img.game8.jp/1673895/60489b02395aff5db2cb5f38fc691250.jpeg/show",
+    "health": 1750,
+    "attack": 500,
+    "dps": 254,
+    "range": 1,
+    "kb": 3,
+    "speed": 8,
+    "reach": 150,
+    "cost": 1125,
+    "frequency": 59,
+    "animation": 16,
+    "again": 146,
+    "ability": [{"index": 5,"percent": null,"t1": null,"t2": null}],
+    "attribute": [{"index": 1,"percent": null}],
+    "rarity": 2,
+    "collaboration": false
+  },
+  {
+    "name": "デビルネコ",
+    "description": "デビルメイクを施した戦闘向き高級ユニット\nネコフィッシュよりも扱いやすい\n赤い敵にめっぽう強い",
+    "image": "https://img.game8.jp/1673905/bc179aefee0b34ebb98f6ee019872741.jpeg/show",
+    "health": 1750,
+    "attack": 500,
+    "dps": 254,
+    "range": 1,
+    "kb": 3,
+    "speed": 8,
+    "reach": 150,
+    "cost": 1125,
+    "frequency": 59,
+    "animation": 16,
+    "again": 146,
+    "ability": [{"index": 5,"percent": null,"t1": null,"t2": null}],
+    "attribute": [{"index": 1,"percent": null}],
+    "rarity": 2,
+    "collaboration": false
+  },
+  {
+    "name": "ネコボーン",
+    "description": "高鳴るハートが止まらない戦闘向き高級ユニット\nネコフィッシュよりも扱いやすい\n赤い敵とゾンビにめっぽう強く、範囲攻撃を取得",
+    "image": "https://img.game8.jp/1699955/0e0bdb89a281d0cf55506dfb0eb7fedc.jpeg/show",
+    "health": 1750,
+    "attack": 500,
+    "dps": 254,
+    "range": 2,
+    "kb": 3,
+    "speed": 8,
+    "reach": 150,
+    "cost": 1125,
+    "frequency": 59,
+    "animation": 16,
+    "again": 146,
+    "ability": [
+      {"index": 5,"percent": null,"t1": null,"t2": null},
+      {"index": 18,"percent": null,"t1": null,"t2": null}
+    ],
+    "attribute": [
+      {"index": [1, 7],"percent": null},
+      {"index": 7,"percent": null}
+    ],
+    "rarity": 2,
+    "collaboration": false
+  },
+]

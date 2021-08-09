@@ -1,0 +1,68 @@
+[
+  {
+    "name": "ネコフィッシュ",
+    "description": "戦闘向きの高級キャラ\n｢赤い敵｣にはめっぽう強い",
+    "image": "https://img.game8.jp/1673868/97d5e6afbd3880ce10b7f2f2183b9261.jpeg/show?1528339948",
+    "health": 1750,
+    "attack": 450,
+    "dps": 255,
+    "range": 1,
+    "kb": 3,
+    "speed": 10,
+    "reach": 150,
+    "cost": 1200,
+    "frequency": 53,
+    "animation": 10,
+    "again": 136,
+    "ability": [{ "index": 5, "percent": null, "t1": null, "t2": null }],
+    "attribute": [{ "index": 1, "percent": null }],
+    "rarity": 1,
+    "collaboration":false
+  },
+  {
+    "name": "ネコクジラ",
+    "description": "肉食クジラに進化した高級戦闘キャラ\n｢赤い敵｣にはめっぽう強い",
+    "image": "https://img.game8.jp/1673883/7d8cb3e35c50272c7c1fbcdcfd55a7cc.jpeg/show?1528339948",
+    "health": 1750,
+    "attack": 450,
+    "dps": 255,
+    "range": 1,
+    "kb": 3,
+    "speed": 10,
+    "reach": 150,
+    "cost": 1200,
+    "frequency": 53,
+    "animation": 10,
+    "again": 136,
+    "ability": [{ "index": 5, "percent": null, "t1": null, "t2": null }],
+    "attribute": [{ "index": 1, "percent": null }],
+    "rarity": 1,
+    "collaboration":false
+  },
+  {
+    "name": "ネコ島",
+    "description": "にゃんこ達のバカンスに最適な形状にまで\n進化したキャラ。｢赤い敵｣にはめっぽう強く\nごくたまにクリティカル攻撃を放つ",
+    "image": "https://img.game8.jp/1699951/b6e5c9844623b13e4275250c7b32343a.jpeg/show?1529300589",
+    "health": 3500,
+    "attack": 900,
+    "dps": 509,
+    "range": 1,
+    "kb": 3,
+    "speed": 10,
+    "reach": 150,
+    "cost": 1200,
+    "frequency": 53,
+    "animation": 10,
+    "again": 256,
+    "ability": [
+      { "index": 5, "percent": null, "t1": null, "t2": null },
+      { "index": 7, "percent": 2, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": 1, "percent": null },
+      { "index": null, "percent": null }
+    ],
+    "rarity": 1,
+    "collaboration":false
+  }
+]
