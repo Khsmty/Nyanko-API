@@ -17,7 +17,7 @@
     "ability": [],
     "attribute": [],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   },
   {
     "name": "ネコキリン",
@@ -37,7 +37,7 @@
     "ability": [],
     "attribute": [],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   },
   {
     "name": "ネコライオン",
@@ -57,6 +57,6 @@
     "ability": [],
     "attribute": [],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   }
 ]

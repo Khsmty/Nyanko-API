@@ -17,7 +17,7 @@
     "ability": [{ "index": 5, "percent": null, "t1": null, "t2": null }],
     "attribute": [{ "index": 1, "percent": null }],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   },
   {
     "name": "ネコクジラ",
@@ -37,7 +37,7 @@
     "ability": [{ "index": 5, "percent": null, "t1": null, "t2": null }],
     "attribute": [{ "index": 1, "percent": null }],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   },
   {
     "name": "ネコ島",
@@ -63,6 +63,6 @@
       { "index": null, "percent": null }
     ],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   }
 ]

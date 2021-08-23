@@ -17,7 +17,7 @@
     "ability": [],
     "attribute": [],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   },
   {
     "name": "美脚ネコ",
@@ -37,7 +37,7 @@
     "ability": [],
     "attribute": [],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   },
   {
     "name": "ムキあしネコ",
@@ -57,6 +57,6 @@
     "ability": [{ "index": 5, "percent": null, "t1": null, "t2": null }],
     "attribute": [{ "index": 6, "percent": null }],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   }
 ]

@@ -14,8 +14,8 @@
     "frequency": 127,
     "animation": 28,
     "again": 1744,
-    "ability": [{"index": 7,"percent": 15,"t1": null,"t2": null}],
-    "attribute": [{"index": null,"percent": null}]
+    "ability": [{ "index": 7, "percent": 15, "t1": null, "t2": null }],
+    "attribute": [{ "index": null, "percent": null }]
   },
   {
     "name": "スターもねこ",
@@ -32,7 +32,7 @@
     "frequency": 127,
     "animation": 28,
     "again": 1744,
-    "ability": [{"index": 7,"percent": 15,"t1": null,"t2": null}],
-    "attribute": [{"index": null,"percent": null}]
-  },
+    "ability": [{ "index": 7, "percent": 15, "t1": null, "t2": null }],
+    "attribute": [{ "index": null, "percent": null }]
+  }
 ]

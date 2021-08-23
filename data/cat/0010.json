@@ -17,7 +17,7 @@
     "ability": [],
     "attribute": [],
     "rarity": 2,
-    "collaboration":false
+    "collaboration": false
   },
   {
     "name": "ネコ聖母",
@@ -37,7 +37,7 @@
     "ability": [],
     "attribute": [],
     "rarity": 2,
-    "collaboration":false
+    "collaboration": false
   },
   {
     "name": "ネコマッチョ",
@@ -57,6 +57,6 @@
     "ability": [],
     "attribute": [],
     "rarity": 2,
-    "collaboration":false
-  },
+    "collaboration": false
+  }
 ]

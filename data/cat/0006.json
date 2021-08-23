@@ -17,7 +17,7 @@
     "ability": [],
     "attribute": [],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   },
   {
     "name": "ネコUFO",
@@ -37,7 +37,7 @@
     "ability": [],
     "attribute": [],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   },
   {
     "name": "天空のネコ",
@@ -57,6 +57,6 @@
     "ability": [{ "index": 5, "percent": null, "t1": 120, "t2": 144 }],
     "attribute": [{ "index": 1, "percent": null }],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   }
 ]

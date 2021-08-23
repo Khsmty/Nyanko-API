@@ -1,0 +1,68 @@
+[
+  {
+    "name": "ネコぼさつ",
+    "description": "心を鍛えることで肉体をも強化させた\n奇跡のにゃんこ\nいてる敵の移動をたまに遅くする（範囲攻撃）",
+    "image": "https://img.game8.jp/1673926/f130f1133372503b32d4700903fdffa2.jpeg/show?1528339948",
+    "health": 2400,
+    "attack": 737,
+    "dps": 299,
+    "range": 2,
+    "kb": 2,
+    "speed": 7,
+    "reach": 270,
+    "cost": 1650,
+    "frequency": 74,
+    "animation": 45,
+    "again": 1186,
+    "ability": [{ "index": 15, "percent": 40, "t1": 120, "t2": 144 }],
+    "attribute": [{ "index": 2, "percent": null }],
+    "rarity": 4,
+    "collaboration": false
+  },
+  {
+    "name": "ネコせんじゅ",
+    "description": "鍛え上げた心と張りぼての腕を\n背中に装着した奇跡のにゃんこ\n浮いてる敵の移動をたまに遅くする（範囲攻撃）",
+    "image": "https://img.game8.jp/1673928/3cfd670589f653cad31b70578c2a1e77.jpeg/show?1528339948",
+    "health": 2900,
+    "attack": 1237,
+    "dps": 501,
+    "range": 2,
+    "kb": 2,
+    "speed": 7,
+    "reach": 270,
+    "cost": 1650,
+    "frequency": 74,
+    "animation": 45,
+    "again": 1186,
+    "ability": [{ "index": 15, "percent": 40, "t1": 120, "t2": 144 }],
+    "attribute": [{ "index": 2, "percent": null }],
+    "rarity": 4,
+    "collaboration": false
+  },
+  {
+    "name": "ネコにょらい",
+    "description": "俗世の者たちを温かく見守る心優しき奇跡のにゃんこ\n三度やらかすともちろんキレる（範囲攻撃）\nたまに浮いてる敵の移動を遅くし攻撃力をダウンさせる",
+    "image": "https://img.game8.jp/1699995/146e926a904da28e449e8034530aa06a.jpeg/show?1529300705",
+    "health": 2900,
+    "attack": 1237,
+    "dps": 501,
+    "range": 2,
+    "kb": 2,
+    "speed": 7,
+    "reach": 300,
+    "cost": 1650,
+    "frequency": 74,
+    "animation": 45,
+    "again": 1186,
+    "ability": [
+      { "index": 15, "percent": 40, "t1": 120, "t2": 144 },
+      { "index": 24, "percent": 30, "t1": 120, "t2": 144 }
+    ],
+    "attribute": [
+      { "index": 2, "percent": null },
+      { "index": 2, "percent": null }
+    ],
+    "rarity": 4,
+    "collaboration": false
+  }
+]

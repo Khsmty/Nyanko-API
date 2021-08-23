@@ -1,0 +1,86 @@
+[
+  {
+    "name": "ネコ番長",
+    "description": "学校では敵無しのちょいワルにゃんこ\n浮いてる敵をたまに一瞬止める（範囲攻撃）",
+    "image": "https://img.game8.jp/1673920/a7e551a650539855bc1e2f8f92dc4278.jpeg/show?1528339948",
+    "health": 2500,
+    "attack": 1086,
+    "dps": 336,
+    "range": 2,
+    "kb": 3,
+    "speed": 8,
+    "reach": 250,
+    "cost": 1500,
+    "frequency": 97,
+    "animation": 18,
+    "again": 1466,
+    "ability": [
+      { "index": 14, "percent": 16, "t1": 60, "t2": 72 },
+      { "index": 21, "percent": null, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": 2, "percent": null },
+      { "index": null, "percent": null }
+    ],
+    "rarity": 4,
+    "collaboration": false
+  },
+  {
+    "name": "怒りのネコ番長",
+    "description": "冷蔵庫のアイスクリームを父親に\n食べられて怒りに目覚めたちょいワルにゃんこ\n浮いてる敵をたまに一瞬止める（範囲攻撃）",
+    "image": "https://img.game8.jp/1673927/4b8a7144b8434a7184fde594b60f63cb.jpeg/show?1528339948",
+    "health": 3000,
+    "attack": 1911,
+    "dps": 568,
+    "range": 2,
+    "kb": 3,
+    "speed": 8,
+    "reach": 250,
+    "cost": 1500,
+    "frequency": 101,
+    "animation": 18,
+    "again": 1466,
+    "ability": [
+      { "index": 14, "percent": 16, "t1": 60, "t2": 72 },
+      { "index": 34, "percent": null, "t1": null, "t2": null },
+      { "index": 21, "percent": null, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": 2, "percent": null },
+      { "index": null, "percent": null },
+      { "index": null, "percent": null }
+    ],
+    "rarity": 4,
+    "collaboration": false
+  },
+  {
+    "name": "押忍！ネコ番長",
+    "description": "怒りを拳に込めて戦うちょいワルにゃんこ\n今日も拾い集めたパチンコ玉をアイスと交換\n浮いてる敵と古代種をたまに一瞬止める（範囲攻撃）",
+    "image": "https://img.game8.jp/1723424/05598cba363a1e816c9abec2683e7bb5.png/show",
+    "health": 4500,
+    "attack": 1911,
+    "dps": 591,
+    "range": 2,
+    "kb": 3,
+    "speed": 8,
+    "reach": 280,
+    "cost": 1500,
+    "frequency": 97,
+    "animation": 18,
+    "again": 1036,
+    "ability": [
+      { "index": 14, "percent": 16, "t1": 60, "t2": 72 },
+      { "index": 34, "percent": null, "t1": null, "t2": null },
+      { "index": 38, "percent": null, "t1": null, "t2": null },
+      { "index": 21, "percent": null, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": [2, 9], "percent": null },
+      { "index": null, "percent": null },
+      { "index": null, "percent": null },
+      { "index": null, "percent": null }
+    ],
+    "rarity": 4,
+    "collaboration": false
+  }
+]

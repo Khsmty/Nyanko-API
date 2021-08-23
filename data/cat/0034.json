@@ -1,0 +1,82 @@
+[
+  {
+    "name": "ネコたつ",
+    "description": "冬場に向けて機能性を向上させたキャラ\n浮いてる敵に打たれ強く\nたまに｢浮いてる敵｣の攻撃力を下げる",
+    "image": "https://img.game8.jp/1673923/00405c76eaea8a3be2e60624ae621c2e.jpeg/show?1528339948",
+    "health": 3000,
+    "attack": 250,
+    "dps": 147,
+    "range": 1,
+    "kb": 1,
+    "speed": 10,
+    "reach": 130,
+    "cost": 720,
+    "frequency": 51,
+    "animation": 42,
+    "again": 306,
+    "ability": [
+      { "index": 3, "percent": null, "t1": null, "t2": null },
+      { "index": 24, "percent": 30, "t1": 200, "t2": 240 }
+    ],
+    "attribute": [
+      { "index": 2, "percent": null },
+      { "index": 2, "percent": null }
+    ],
+    "rarity": 4,
+    "collaboration": false
+  },
+  {
+    "name": "ねこTV",
+    "description": "人を驚かせる為にTVに入りこんで以来、\nそのまま出れなくなった自縛霊\n浮いてる敵に打たれ強く、たまに攻撃力を下げる",
+    "image": "https://img.game8.jp/1673925/d286cc8a9101db72b14e3b7358e405b0.jpeg/show?1528339948",
+    "health": 4000,
+    "attack": 500,
+    "dps": 294,
+    "range": 1,
+    "kb": 1,
+    "speed": 10,
+    "reach": 130,
+    "cost": 720,
+    "frequency": 51,
+    "animation": 42,
+    "again": 306,
+    "ability": [
+      { "index": 3, "percent": null, "t1": null, "t2": null },
+      { "index": 24, "percent": 30, "t1": 200, "t2": 240 }
+    ],
+    "attribute": [
+      { "index": 2, "percent": null },
+      { "index": 2, "percent": null }
+    ],
+    "rarity": 4,
+    "collaboration": false
+  },
+  {
+    "name": "ねこタコつぼ",
+    "description": "TVの企画「大ダコ捕獲作戦」でタコつぼに潜んで以来\n心地よいぬくもりの虜になったネコ。波動を打ち消し\n浮いてる敵に打たれ強く、たまに攻撃力を下げる",
+    "image": "https://img.game8.jp/1699996/0a6e78b8fb32c6dd8a12d8ecf9271ad6.jpeg/show?1529300705",
+    "health": 4000,
+    "attack": 750,
+    "dps": 357,
+    "range": 1,
+    "kb": 1,
+    "speed": 10,
+    "reach": 130,
+    "cost": 720,
+    "frequency": 63,
+    "animation": 42,
+    "again": 306,
+    "ability": [
+      { "index": 3, "percent": null, "t1": null, "t2": null },
+      { "index": 24, "percent": 30, "t1": 200, "t2": 240 },
+      { "index": 31, "percent": null, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": 2, "percent": null },
+      { "index": 2, "percent": null },
+      { "index": null, "percent": null }
+    ],
+    "rarity": 4,
+    "collaboration": false
+  }
+]

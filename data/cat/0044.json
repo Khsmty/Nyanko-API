@@ -1,0 +1,74 @@
+[
+  {
+    "name": "ネコマシン",
+    "description": "連邦政府から破壊兵器の製造を依頼され\n製作したMSシリーズ試作機1号である（範囲攻撃）\n赤い敵とエイリアンに打たれ強い",
+    "image": "https://img.game8.jp/1673953/ba4319426fe50a98c2b1df286d458105.jpeg/show",
+    "health": 12000,
+    "attack": 8750,
+    "dps": 715,
+    "range": 2,
+    "kb": 1,
+    "speed": 9,
+    "reach": 140,
+    "cost": 3600,
+    "frequency": 367,
+    "animation": 168,
+    "again": 1946,
+    "ability": [{ "index": 3, "percent": null, "t1": null, "t2": null }],
+    "attribute": [{ "index": [1, 6], "percent": null}],
+    "rarity": 5,
+    "collaboration": false
+  },
+  {
+    "name": "ネコマシン・破",
+    "description": "破壊兵器としての利用を阻止する為\n研究施設から脱出した実戦型MS:RX-13（範囲攻撃）\n赤い敵とエイリアンに打たれ強い",
+    "image": "https://img.game8.jp/1673949/08ae446aab015bd8cd76c5f0c86a7404.jpeg/show",
+    "health": 15000,
+    "attack": 13887,
+    "dps": 1135,
+    "range": 2,
+    "kb": 1,
+    "speed": 9,
+    "reach": 140,
+    "cost": 3600,
+    "frequency": 367,
+    "animation": 168,
+    "again": 1946,
+    "ability": [
+      { "index": 3, "percent": null, "t1": null, "t2": null },
+      { "index": 30, "percent": null, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": [1, 6], "percent": null },
+      { "index": null, "percent": null }
+    ],
+    "rarity": 5,
+    "collaboration": false
+  },
+  {
+    "name": "ネコマシン・滅",
+    "description": "破壊兵器MSシリーズの量産を始めた連邦政府に\n決戦型へと化したMS:RX-Ωが阻止に乗り込む（範囲攻撃）\n赤い敵とエイリアンに打たれ強く、波動を打ち消す",
+    "image": "https://img.game8.jp/1700013/34dd12f4f603f28fd33670cac6ed9879.jpeg/show",
+    "health": 22500,
+    "attack": 13887,
+    "dps": 1560,
+    "range": 2,
+    "kb": 1,
+    "speed": 15,
+    "reach": 190,
+    "cost": 3600,
+    "frequency": 267,
+    "animation": 168,
+    "again": 1946,
+    "ability": [
+      { "index": 3, "percent": null, "t1": null, "t2": null },
+      { "index": 31, "percent": null, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": [1, 6], "percent": null },
+      { "index": null, "percent": null }
+    ],
+    "rarity": 5,
+    "collaboration": false
+  }
+]

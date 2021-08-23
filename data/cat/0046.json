@@ -1,0 +1,42 @@
+[
+  {
+    "name": "芸者ねこ",
+    "description": "芸の道に進んだ行動力あふれるキャラクター\nとはいえ中身は通常のネコと同じである",
+    "image": "https://img.game8.jp/1673957/137a15e5cd8e9bd4196c3a48fc0b1b91.jpeg/show",
+    "health": 250,
+    "attack": 20,
+    "dps": 16,
+    "range": 1,
+    "kb": 3,
+    "speed": 10,
+    "reach": 140,
+    "cost": 75,
+    "frequency": 37,
+    "animation": 8,
+    "again": 60,
+    "ability": [],
+    "attribute": [],
+    "rarity": 2,
+    "collaboration": false
+  },
+  {
+    "name": "ネコでありんした",
+    "description": "芸の道を究めるあまりネコでは無くなった\nと思いこんでいるキャラクター\n遠距離攻撃が得意",
+    "image": "https://img.game8.jp/1673948/6ca53e2d973c1b2a36ec45c524ad4793.jpeg/show",
+    "health": 875,
+    "attack": 200,
+    "dps": 47,
+    "range": 1,
+    "kb": 3,
+    "speed": 10,
+    "reach": 350,
+    "cost": 900,
+    "frequency": 128,
+    "animation": 9,
+    "again": 76,
+    "ability": [],
+    "attribute": [],
+    "rarity": 2,
+    "collaboration": false
+  }
+]

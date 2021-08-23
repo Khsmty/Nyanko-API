@@ -14,8 +14,8 @@
     "frequency": 34,
     "animation": 12,
     "again": 60,
-    "ability": [],
-    "attribute": [],
+    "ability": [{ "index": 21, "percent": null, "t1": null, "t2": null }],
+    "attribute": [{ "index": null, "percent": null }],
     "rarity": 2,
     "collaboration": false
   },
@@ -34,8 +34,8 @@
     "frequency": 34,
     "animation": 12,
     "again": 60,
-    "ability": [],
-    "attribute": [],
+    "ability": [{ "index": 21, "percent": null, "t1": null, "t2": null }],
+    "attribute": [{ "index": null, "percent": null }],
     "rarity": 2,
     "collaboration": false
   },
@@ -54,9 +54,15 @@
     "frequency": 34,
     "animation": 12,
     "again": 60,
-    "ability": [{"index": 33,"percent": null,"t1": null,"t2": null}],
-    "attribute": [{"index": null,"percent": null}],
+    "ability": [
+      { "index": 33, "percent": null, "t1": null, "t2": null },
+      { "index": 21, "percent": null, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": null, "percent": null },
+      { "index": null, "percent": null }
+    ],
     "rarity": 2,
     "collaboration": false
-  },
+  }
 ]

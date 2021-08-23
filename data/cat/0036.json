@@ -1,0 +1,68 @@
+[
+  {
+    "name": "オタネコ",
+    "description": "家の中なら誰にも負ける気がしない\nネット界に嵐を巻き起こすオトコ\n超遠距離攻撃が可能（遠方攻撃）",
+    "image": "https://img.game8.jp/1673940/a9bb4505d53721f1c7a63be8813dc1d4.jpeg/show?1528339948",
+    "health": 500,
+    "attack": 750,
+    "dps": 93,
+    "range": 1,
+    "kb": 1,
+    "speed": 4,
+    "reach": 1200,
+    "cost": 3750,
+    "frequency": 241,
+    "animation": 72,
+    "again": 4746,
+    "ability": [{ "index": 16, "percent": null, "t1": null, "t2": null }],
+    "attribute": [{ "index": null, "percent": null }],
+    "rarity": 4,
+    "collaboration": false
+  },
+  {
+    "name": "ネコハッカー",
+    "description": "ボタンひとつで全てを動かす\nエリート大学出身のハイテクにゃんこ\n超遠距離の範囲攻撃が可能（遠方範囲攻撃）",
+    "image": "https://img.game8.jp/1673933/7404d323f82098c8d4d03334886ab715.jpeg/show?1528339948",
+    "health": 500,
+    "attack": 750,
+    "dps": 93,
+    "range": 2,
+    "kb": 1,
+    "speed": 4,
+    "reach": 1200,
+    "cost": 3750,
+    "frequency": 241,
+    "animation": 72,
+    "again": 4746,
+    "ability": [{ "index": 16, "percent": null, "t1": null, "t2": null }],
+    "attribute": [{ "index": null, "percent": null }],
+    "rarity": 4,
+    "collaboration": false
+  },
+  {
+    "name": "ネコスーパーハッカー",
+    "description": "指すら触れずに全てを動かす天才ハッカー\n先日、仮想通貨取引で大損した\nメタルな敵以外の動きを一瞬遅くする（遠方範囲攻撃）",
+    "image": "https://img.game8.jp/1700001/0abd69409e09a1503698461d2ebf148b.jpeg/show?1529300705",
+    "health": 500,
+    "attack": 1125,
+    "dps": 140,
+    "range": 2,
+    "kb": 1,
+    "speed": 4,
+    "reach": 1200,
+    "cost": 3750,
+    "frequency": 241,
+    "animation": 72,
+    "again": 4746,
+    "ability": [
+      { "index": 15, "percent": 100, "t1": 60, "t2": 72 },
+      { "index": 21, "percent": null, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": 10, "percent": null },
+      { "index": null, "percent": null }
+    ],
+    "rarity": 4,
+    "collaboration": false
+  }
+]

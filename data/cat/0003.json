@@ -17,7 +17,7 @@
     "ability": [{ "index": 5, "percent": null, "t1": null, "t2": null }],
     "attribute": [{ "index": 1, "percent": null }],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   },
   {
     "name": "勇者ネコ",
@@ -37,7 +37,7 @@
     "ability": [{ "index": 5, "percent": null, "t1": null, "t2": null }],
     "attribute": [{ "index": 1, "percent": null }],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   },
   {
     "name": "暗黒ネコ",
@@ -57,6 +57,6 @@
     "ability": [{ "index": 5, "percent": null, "t1": null, "t2": null }],
     "attribute": [{ "index": 1, "percent": null }],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   }
 ]

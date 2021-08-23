@@ -54,9 +54,9 @@
     "frequency": 17,
     "animation": 2,
     "again": 226,
-    "ability": [{"index": 18,"percent": null,"t1": null,"t2": null}],
-    "attribute": [{"index": 7,"percent": null}],
+    "ability": [{ "index": 18, "percent": null, "t1": null, "t2": null }],
+    "attribute": [{ "index": 7, "percent": null }],
     "rarity": 2,
     "collaboration": "Mr."
-  },
+  }
 ]

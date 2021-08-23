@@ -1,0 +1,68 @@
+[
+  {
+    "name": "ネコザイル",
+    "description": "某ダンススクールでトップダンサーを目指す\n量産がしやすく使い勝手の良いキャラ\n赤い敵の移動をごくたまに遅くする",
+    "image": "https://img.game8.jp/1673932/47089f6418f4812d933b9e2c9390188c.jpeg/show?1528339948",
+    "health": 1875,
+    "attack": 1875,
+    "dps": 288,
+    "range": 1,
+    "kb": 5,
+    "speed": 11,
+    "reach": 220,
+    "cost": 675,
+    "frequency": 195,
+    "animation": 36,
+    "again": 386,
+    "ability": [{ "index": 15, "percent": 40, "t1": 120, "t2": 144 }],
+    "attribute": [{ "index": 1, "percent": null }],
+    "rarity": 4,
+    "collaboration": false
+  },
+  {
+    "name": "ネコ裸踊り",
+    "description": "某ダンススクールでトップダンサーを目指すが\nライバルの多さに方向転換を余儀なくされたキャラ\n赤い敵の移動をごくたまに遅くする",
+    "image": "https://img.game8.jp/1673929/1c4f78973e7c26355aee1bcebc3f58e8.jpeg/show?1528339948",
+    "health": 3750,
+    "attack": 3750,
+    "dps": 577,
+    "range": 1,
+    "kb": 5,
+    "speed": 11,
+    "reach": 220,
+    "cost": 675,
+    "frequency": 195,
+    "animation": 36,
+    "again": 386,
+    "ability": [{ "index": 15, "percent": 40, "t1": 120, "t2": 144 }],
+    "attribute": [{ "index": 1, "percent": null }],
+    "rarity": 4,
+    "collaboration": false
+  },
+  {
+    "name": "ネコカンカン",
+    "description": "過激すぎる踊りで某ダンススクールを退学になった\n挑発的かつ刺激的なダンサー\n赤い敵の移動をたまに遅くする",
+    "image": "https://img.game8.jp/4187996/645aec94ffc7bdf0541f8653d906bbfd.png/show",
+    "health": 5625,
+    "attack": 5625,
+    "dps": 865,
+    "range": 2,
+    "kb": 5,
+    "speed": 11,
+    "reach": 220,
+    "cost": 675,
+    "frequency": 195,
+    "animation": 36,
+    "again": 386,
+    "ability": [
+      { "index": 15, "percent": 60, "t1": 120, "t2": 144 },
+      { "index": 37, "percent": null, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": 1, "percent": null },
+      { "index": null, "percent": null }
+    ],
+    "rarity": 4,
+    "collaboration": false
+  }
+]

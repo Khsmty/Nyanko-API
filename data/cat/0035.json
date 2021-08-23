@@ -1,0 +1,68 @@
+[
+  {
+    "name": "ネコルガ",
+    "description": "ネコなのか何なのか、\nまったく正体不明の謎のキャラクター\n進化させると…",
+    "image": "https://img.game8.jp/1673930/7669892e101a0acbf285e8191a912b70.jpeg/show",
+    "health": 1250,
+    "attack": 375,
+    "dps": 137,
+    "range": 1,
+    "kb": 5,
+    "speed": 4,
+    "reach": 140,
+    "cost": 4500,
+    "frequency": 82,
+    "animation": 13,
+    "again": 746,
+    "ability": [],
+    "attribute": [],
+    "rarity": 5,
+    "collaboration": false
+  },
+  {
+    "name": "ケサランパサラン",
+    "description": "ネコなのか何なのか、\nまったく正体不明の謎のキャラクター\nメタルな敵以外の敵を後方へふっとばす（範囲攻撃）",
+    "image": "https://img.game8.jp/1673931/fb13fc988f0b9398b3713fdc4294134f.jpeg/show",
+    "health": 3000,
+    "attack": 2500,
+    "dps": 132,
+    "range": 2,
+    "kb": 1,
+    "speed": 4,
+    "reach": 650,
+    "cost": 4500,
+    "frequency": 568,
+    "animation": 89,
+    "again": 9746,
+    "ability": [{ "index": 13, "percent": 100, "t1": null, "t2": null }],
+    "attribute": [{ "index": 10, "percent": null }],
+    "rarity": 5,
+    "collaboration": false
+  },
+  {
+    "name": "ウルトラパサラン",
+    "description": "ネコなのか巨大変身ヒーローなのかまったく正体不明の\n謎のキャラクター。メタルな敵以外の敵をふっとばし\n敵の動きを止める（範囲攻撃）",
+    "image": "https://img.game8.jp/1700025/22ac5aceb9cd0e80de2a0adefe3b7ba4.jpeg/show",
+    "health": 3000,
+    "attack": 5000,
+    "dps": 264,
+    "range": 2,
+    "kb": 1,
+    "speed": 4,
+    "reach": 650,
+    "cost": 4500,
+    "frequency": 568,
+    "animation": 89,
+    "again": 9746,
+    "ability": [
+      { "index": 13, "percent": 100, "t1": null, "t2": null },
+      { "index": 14, "percent": 100, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": 10, "percent": null },
+      { "index": 10, "percent": null }
+    ],
+    "rarity": 5,
+    "collaboration": false
+  }
+]

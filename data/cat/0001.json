@@ -17,7 +17,7 @@
     "ability": [],
     "attribute": [],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   },
   {
     "name": "ネコビルダー",
@@ -37,7 +37,7 @@
     "ability": [],
     "attribute": [],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   },
   {
     "name": "ネコモヒカン",
@@ -57,6 +57,6 @@
     "ability": [],
     "attribute": [],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   }
 ]

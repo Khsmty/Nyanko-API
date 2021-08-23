@@ -34,10 +34,10 @@
     "frequency": 210,
     "animation": 11,
     "again": 606,
-    "ability": [],
-    "attribute": [],
+    "ability": [{ "index": 21, "percent": null, "t1": null, "t2": null }],
+    "attribute": [{ "index": null, "percent": null }],
     "rarity": 2,
-    "collaboration":false
+    "collaboration": false
   },
   {
     "name": "ネコダンサー",
@@ -54,9 +54,9 @@
     "frequency": 210,
     "animation": 35,
     "again": 606,
-    "ability": [{"index": 36,"percent": null,"t1": null,"t2": null}],
-    "attribute": [{"index": null,"percent": null}],
+    "ability": [{ "index": 36, "percent": null, "t1": null, "t2": null }],
+    "attribute": [{ "index": null, "percent": null }],
     "rarity": 2,
-    "collaboration":false
-  },
+    "collaboration": false
+  }
 ]

@@ -17,7 +17,7 @@
     "ability": [],
     "attribute": [],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   },
   {
     "name": "ネコダラボッチ",
@@ -37,7 +37,7 @@
     "ability": [],
     "attribute": [],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   },
   {
     "name": "ネコジャラミ",
@@ -54,9 +54,9 @@
     "frequency": 67,
     "animation": 18,
     "again": 676,
-"ability": [{"index":13,"percent":30,"t1":null,"t2":null}],
-"attribute": [{"index":10,"percent":null}],
+    "ability": [{ "index": 13, "percent": 30, "t1": null, "t2": null }],
+    "attribute": [{ "index": 10, "percent": null }],
     "rarity": 1,
-    "collaboration":false
+    "collaboration": false
   }
 ]
