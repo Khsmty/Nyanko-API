@@ -52,7 +52,7 @@
     "reach": 150,
     "cost": 1215,
     "frequency": 41,
-    "animation": 8
+    "animation": 8,
     "again": 156,
     "ability": [{ "index": 26, "percent": null, "t1": null, "t2": null }],
     "attribute": [{ "index": null, "percent": null }],

@@ -15,7 +15,7 @@
     "animation": 54,
     "again": 1746,
     "ability": [{ "index": 14, "percent": 50, "t1": 120, "t2": 144 }],
-    "attribute": [{ "index": 1, "percent": null}],
+    "attribute": [{ "index": 1, "percent": null }],
     "rarity": 5,
     "collaboration": false
   },
@@ -35,7 +35,7 @@
     "animation": 54,
     "again": 1746,
     "ability": [{ "index": 14, "percent": 50, "t1": 120, "t2": 144 }],
-    "attribute": [{ "index": 1, "percent": null}],
+    "attribute": [{ "index": 1, "percent": null }],
     "rarity": 5,
     "collaboration": false
   },
@@ -55,7 +55,7 @@
     "animation": 54,
     "again": 1746,
     "ability": [{ "index": 14, "percent": 100, "t1": 120, "t2": 144 }],
-    "attribute": [{ "index": 1, "percent": null}],
+    "attribute": [{ "index": 1, "percent": null }],
     "rarity": 5,
     "collaboration": false
   }

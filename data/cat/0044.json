@@ -15,7 +15,7 @@
     "animation": 168,
     "again": 1946,
     "ability": [{ "index": 3, "percent": null, "t1": null, "t2": null }],
-    "attribute": [{ "index": [1, 6], "percent": null}],
+    "attribute": [{ "index": [1, 6], "percent": null }],
     "rarity": 5,
     "collaboration": false
   },
