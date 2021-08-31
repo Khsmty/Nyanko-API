@@ -1,0 +1,68 @@
+[
+  {
+    "name": "執行者",
+    "description": "ケリ姫スイーツに登場するキャラクター\nコラボレーションにより夢の競演\nたまに黒い敵の動きを遅くする（範囲攻撃）",
+    "image": "https://img.game8.jp/1674017/c18660a10553b51718064daa262c0000.jpeg/show?1528340554",
+    "health": 1000,
+    "attack": 500,
+    "dps": 82,
+    "range": 2,
+    "kb": 3,
+    "speed": 7,
+    "reach": 360,
+    "cost": 750,
+    "frequency": 184,
+    "animation": 25,
+    "again": 946,
+    "ability": [{ "index": 15, "percent": 40, "t1": 120, "t2": 144 }],
+    "attribute": [{ "index": 3, "percent": null }],
+    "rarity": 4,
+    "collaboration": true
+  },
+  {
+    "name": "執行者999",
+    "description": "ケリ姫スイーツに登場するキャラクター\nコラボレーションにより夢の競演\nたまに黒い敵の動きを遅くする（範囲攻撃）",
+    "image": "https://img.game8.jp/1674009/c9e61ac0993ab0085f7f0b15a0c3cf55.jpeg/show?1528340554",
+    "health": 1750,
+    "attack": 750,
+    "dps": 122,
+    "range": 2,
+    "kb": 3,
+    "speed": 7,
+    "reach": 360,
+    "cost": 750,
+    "frequency": 184,
+    "animation": 25,
+    "again": 946,
+    "ability": [{ "index": 15, "percent": 40, "t1": 120, "t2": 144 }],
+    "attribute": [{ "index": 3, "percent": null }],
+    "rarity": 4,
+    "collaboration": true
+  },
+  {
+    "name": "ジャッジメント",
+    "description": "ケリ姫スイーツに登場するキャラクター\n審判の鐘の音で杭と地獄の鎌を呼び出して攻撃する\nたまに黒い敵の動きを遅くする（範囲攻撃）",
+    "image": "https://img.game8.jp/3208808/d75bee6c2cd5e4cf6dcfd2bbb2fb7a1f.png/show",
+    "health": 2500,
+    "attack": 2250,
+    "dps": 367,
+    "range": 2,
+    "kb": 3,
+    "speed": 7,
+    "reach": 360,
+    "cost": 750,
+    "frequency": 184,
+    "animation": 57,
+    "again": 946,
+    "ability": [
+      { "index": 21, "percent": null, "t1": null, "t2": null },
+      { "index": 15, "percent": 40, "t1": 120, "t2": 144 }
+    ],
+    "attribute": [
+      { "index": null, "percent": null },
+      { "index": 3, "percent": null }
+    ],
+    "rarity": 4,
+    "collaboration": true
+  }
+]

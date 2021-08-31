@@ -1,0 +1,42 @@
+[
+  {
+    "name": "10式戦車",
+    "description": "C4Iシステムを搭載する｢走るコンピューター｣の\n異名をもつ10（ひとまる）式戦車（範囲攻撃）\n本物はタッチパネル操作で主砲が撃てるらしい",
+    "image": "https://img.game8.jp/1673989/7144b15cd28e2ff54388ab47d442719c.jpeg/show",
+    "health": 1905,
+    "attack": 575,
+    "dps": 556,
+    "range": 2,
+    "kb": 4,
+    "speed": 6,
+    "reach": 140,
+    "cost": 1413,
+    "frequency": 31,
+    "animation": 6,
+    "again": 926,
+    "ability": [],
+    "attribute": [],
+    "rarity": 2,
+    "collaboration": true
+  },
+  {
+    "name": "ネコ搭乗10式戦車",
+    "description": "乗員3人　全備重量約44t 最高速度70km/h\n全長9.42m 全幅3.24m 全高2.30m（範囲攻撃）\n水冷4サイクルV型8気筒ディーゼルエンジン",
+    "image": "https://img.game8.jp/1673983/02b10d26a8b3d87132bac8332a91ef37.jpeg/show",
+    "health": 1905,
+    "attack": 575,
+    "dps": 556,
+    "range": 2,
+    "kb": 4,
+    "speed": 6,
+    "reach": 140,
+    "cost": 1413,
+    "frequency": 31,
+    "animation": 6,
+    "again": 926,
+    "ability": [],
+    "attribute": [],
+    "rarity": 2,
+    "collaboration": true
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "エヴァンジェリスト",
+    "description": "レジェンド達に会うことで入手できる\n敵の動きを止めることができるエスパーにゃんこ\n押され気味のときに召喚するのだ！",
+    "image": "",
+    "health": 500,
+    "attack": 150,
+    "dps": 4,
+    "range": 2,
+    "kb": 1,
+    "speed": 18,
+    "reach": 1000,
+    "cost": 499,
+    "frequency": 1140,
+    "animation": 341,
+    "again": 9746,
+    "ability": [{ "index": 14, "percent": 100, "t1": 150, "t2": 180 }],
+    "attribute": [{ "index": 10, "percent": null }],
+    "rarity": 5,
+    "collaboration": false
+  },
+  {
+    "name": "フィリバスター",
+    "description": "レジェンド達に会うことで入手できる\n流れを妨害することができるエスパーにゃんこ\n押され気味のときに召喚するのだ！",
+    "image": "",
+    "health": 500,
+    "attack": 150,
+    "dps": 4,
+    "range": 2,
+    "kb": 1,
+    "speed": 18,
+    "reach": 1000,
+    "cost": 499,
+    "frequency": 1140,
+    "animation": 341,
+    "again": 9746,
+    "ability": [{ "index": 14, "percent": 100, "t1": 150, "t2": 180 }],
+    "attribute": [{ "index": 10, "percent": null }],
+    "rarity": 5,
+    "collaboration": false
+  }
+]

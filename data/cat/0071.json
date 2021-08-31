@@ -1,0 +1,68 @@
+[
+  {
+    "name": "ネコリーマン",
+    "description": "日々働いている人たちに感謝の思いを忘れない\n赤い敵にめっぽう強い勤労感謝ネコ\n伝家の宝刀｢DoGeZa｣が今日も炸裂する",
+    "image": "https://img.game8.jp/1674020/f5a42be32f59ef31888abc70620a8cfa.jpeg/show",
+    "health": 1750,
+    "attack": 400,
+    "dps": 108,
+    "range": 1,
+    "kb": 1,
+    "speed": 8,
+    "reach": 210,
+    "cost": 1366,
+    "frequency": 111,
+    "animation": 22,
+    "again": 186,
+    "ability": [{ "index": 5, "percent": null, "t1": null, "t2": null }],
+    "attribute": [{ "index": 1, "percent": null }],
+    "rarity": 3,
+    "collaboration": false
+  },
+  {
+    "name": "ネコ怨み",
+    "description": "上司に怨みを抱く赤い敵にめっぽう強いオカルトネコ\n毛さえ用意すれば代理でも呪ってくれる\n伝家の宝釘｢GoSuN｣が今日も炸裂（範囲攻撃）",
+    "image": "https://img.game8.jp/1674013/fe65e0476319cff62f2c75c60a2ce70a.jpeg/show",
+    "health": 1750,
+    "attack": 400,
+    "dps": 108,
+    "range": 2,
+    "kb": 1,
+    "speed": 8,
+    "reach": 210,
+    "cost": 1366,
+    "frequency": 111,
+    "animation": 22,
+    "again": 186,
+    "ability": [{ "index": 5, "percent": null, "t1": null, "t2": null }],
+    "attribute": [{ "index": 1, "percent": null }],
+    "rarity": 3,
+    "collaboration": false
+  },
+  {
+    "name": "ネコ火祭り",
+    "description": "言いたいことも言えないこんな世の中に憤るネコ\nブログ名を教えれば代理で炎上させてくれる\n伝家の投稿｢BouGen｣が今日も炸裂（範囲攻撃）",
+    "image": "https://img.game8.jp/1702671/0d9f52d73a511471fd2ec438fbd27fff.jpeg/show",
+    "health": 3000,
+    "attack": 800,
+    "dps": 216,
+    "range": 2,
+    "kb": 2,
+    "speed": 8,
+    "reach": 210,
+    "cost": 1366,
+    "frequency": 111,
+    "animation": 22,
+    "again": 186,
+    "ability": [
+      { "index": 5, "percent": null, "t1": null, "t2": null },
+      { "index": 23, "percent": null, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": 1, "percent": null },
+      { "index": null, "percent": null }
+    ],
+    "rarity": 3,
+    "collaboration": false
+  }
+]

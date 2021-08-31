@@ -17,7 +17,7 @@
     "ability": [],
     "attribute": [],
     "rarity": 2,
-    "collaboration": "Mr."
+    "collaboration": true
   },
   {
     "name": "Super Mr.",
@@ -37,7 +37,7 @@
     "ability": [],
     "attribute": [],
     "rarity": 2,
-    "collaboration": "Mr."
+    "collaboration": true
   },
   {
     "name": "Hyper Mr.",
@@ -57,6 +57,6 @@
     "ability": [{ "index": 18, "percent": null, "t1": null, "t2": null }],
     "attribute": [{ "index": 7, "percent": null }],
     "rarity": 2,
-    "collaboration": "Mr."
+    "collaboration": true
   }
 ]

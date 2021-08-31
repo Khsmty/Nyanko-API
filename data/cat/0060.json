@@ -1,0 +1,82 @@
+[
+  {
+    "name": "ねこベビー",
+    "description": "一人では何もできない赤ちゃんにゃんこ\nいじめると怖いお父さんが出現\nたまに浮いてる敵とエイリアンをふっとばす（範囲攻撃）",
+    "image": "https://img.game8.jp/1674004/66cfceb72787b3f85d528366ef9f6565.jpeg/show",
+    "health": 10000,
+    "attack": 5500,
+    "dps": 552,
+    "range": 2,
+    "kb": 2,
+    "speed": 9,
+    "reach": 140,
+    "cost": 3150,
+    "frequency": 299,
+    "animation": 60,
+    "again": 1546,
+    "ability": [
+      { "index": 13, "percent": 30, "t1": null, "t2": null },
+      { "index": 34, "percent": null, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": 6, "percent": null },
+      { "index": null, "percent": null }
+    ],
+    "rarity": 5,
+    "collaboration": false
+  },
+  {
+    "name": "ねこベビーズ",
+    "description": "一人では何もできない赤ちゃんにゃんこ達\nいじめると怖いお父さんが出現\nたまに浮いてる敵とエイリアンをふっとばす（範囲攻撃）",
+    "image": "https://img.game8.jp/1673991/a5da79ade89b21b73336b82949c512f1.jpeg/show",
+    "health": 13000,
+    "attack": 8750,
+    "dps": 878,
+    "range": 2,
+    "kb": 2,
+    "speed": 9,
+    "reach": 140,
+    "cost": 3150,
+    "frequency": 299,
+    "animation": 60,
+    "again": 1546,
+    "ability": [
+      { "index": 13, "percent": 30, "t1": null, "t2": null },
+      { "index": 34, "percent": null, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": 6, "percent": null },
+      { "index": null, "percent": null }
+    ],
+    "rarity": 5,
+    "collaboration": false
+  },
+  {
+    "name": "ネコベビーカーズ",
+    "description": "集まっても何もできない赤ちゃんにゃんこ達\nいじめると怖いお父さんが出現（範囲攻撃）\nたまに浮いてる敵とエイリアンをふっとばし、波動を放つ",
+    "image": "https://img.game8.jp/1700021/d65b50fc1ed0114a9e57b47fd54b7707.jpeg/show",
+    "health": 15500,
+    "attack": 8750,
+    "dps": 878,
+    "range": 2,
+    "kb": 2,
+    "speed": 12,
+    "reach": 240,
+    "cost": 3150,
+    "frequency": 299,
+    "animation": 60,
+    "again": 1546,
+    "ability": [
+      { "index": 13, "percent": 30, "t1": null, "t2": null },
+      { "index": 10, "percent": 100, "t1": null, "t2": null },
+      { "index": 34, "percent": null, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": 6, "percent": null },
+      { "index": null, "percent": null },
+      { "index": null, "percent": null }
+    ],
+    "rarity": 5,
+    "collaboration": false
+  }
+]

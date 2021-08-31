@@ -17,7 +17,7 @@
     "ability": [],
     "attribute": [],
     "rarity": 2,
-    "collaboration": false
+    "collaboration": true
   },
   {
     "name": "ネコひめビューティ",
@@ -37,6 +37,6 @@
     "ability": [],
     "attribute": [],
     "rarity": 2,
-    "collaboration": false
+    "collaboration": true
   }
 ]

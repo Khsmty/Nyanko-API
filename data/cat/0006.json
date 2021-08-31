@@ -54,8 +54,8 @@
     "frequency": 57,
     "animation": 18,
     "again": 116,
-    "ability": [{ "index": 5, "percent": null, "t1": 120, "t2": 144 }],
-    "attribute": [{ "index": 1, "percent": null }],
+    "ability": [{ "index": 24, "percent": 20, "t1": null, "t2": null }],
+    "attribute": [{ "index": 5, "percent": null }],
     "rarity": 1,
     "collaboration": false
   }

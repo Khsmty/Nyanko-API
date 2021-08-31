@@ -1,0 +1,84 @@
+[
+  {
+    "name": "前田慶次",
+    "description": "伝説の武具「にゃん籠手」の呪いによって\n虎の姿へと変えられた戦国武将（範囲攻撃）\n黒い敵に打たれ強く、体力減少で攻撃力大幅上昇",
+    "image": "https://img.game8.jp/1674027/1f05e3fb6983c8a45b8c26fe46d309c4.jpeg/show",
+    "health": 3750,
+    "attack": 1625,
+    "dps": 257,
+    "range": 2,
+    "kb": 2,
+    "speed": 8,
+    "reach": 250,
+    "cost": 3585,
+    "frequency": 190,
+    "animation": 11,
+    "again": 2046,
+    "ability": [
+      { "index": 3, "percent": null, "t1": null, "t2": null },
+      { "index": 23, "percent": null, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": 3, "percent": null },
+      { "index": null, "percent": null }
+    ],
+    "rarity": 5,
+    "collaboration": false
+  },
+  {
+    "name": "武神・前田慶次",
+    "description": "伝説の武具「にゃん籠手」の呪いによって\n頭から桜の木が生えてきた（範囲攻撃）\n黒い敵に打たれ強く、体力減少で攻撃力大幅上昇",
+    "image": "https://img.game8.jp/1674018/efefaf2af097ff0ff0d951a2c2e11f29.jpeg/show",
+    "health": 9500,
+    "attack": 3250,
+    "dps": 513,
+    "range": 2,
+    "kb": 2,
+    "speed": 8,
+    "reach": 250,
+    "cost": 3585,
+    "frequency": 190,
+    "animation": 11,
+    "again": 2046,
+    "ability": [
+      { "index": 3, "percent": null, "t1": null, "t2": null },
+      { "index": 23, "percent": null, "t1": null, "t2": null },
+      { "index": 30, "percent": null, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": 3, "percent": null },
+      { "index": null, "percent": null },
+      { "index": null, "percent": null }
+    ],
+    "rarity": 5,
+    "collaboration": false
+  },
+  {
+    "name": "憤怒の武神・前田慶次",
+    "description": "咲き誇った桜は武将の意思を奪い破壊の衝動へと\n駆り立てる。黒い敵に打たれ強く、体力減少で\n攻撃力大幅上昇。波動ダメージを無効にする（範囲攻撃）",
+    "image": "https://img.game8.jp/1702675/0d1361ae4100e6a224f58e82bf50bc54.jpeg/show",
+    "health": 14500,
+    "attack": 3250,
+    "dps": 886,
+    "range": 2,
+    "kb": 2,
+    "speed": 8,
+    "reach": 320,
+    "cost": 3585,
+    "frequency": 110,
+    "animation": 11,
+    "again": 2046,
+    "ability": [
+      { "index": 3, "percent": null, "t1": null, "t2": null },
+      { "index": 23, "percent": null, "t1": null, "t2": null },
+      { "index": 30, "percent": null, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": 3, "percent": null },
+      { "index": null, "percent": null },
+      { "index": null, "percent": null }
+    ],
+    "rarity": 5,
+    "collaboration": false
+  }
+]

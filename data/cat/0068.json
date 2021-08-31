@@ -1,0 +1,42 @@
+[
+  {
+    "name": "チビガウ",
+    "description": "ケリ姫スイーツに登場するキャラクター\n黒い敵からのダメージを大幅に軽減する\nコストが安く黒い敵からの防御に最適",
+    "image": "https://img.game8.jp/1674015/6da57bbcf06e522950b3deda827b62fd.jpeg/show",
+    "health": 1500,
+    "attack": 500,
+    "dps": 130,
+    "range": 1,
+    "kb": 1,
+    "speed": 8,
+    "reach": 110,
+    "cost": 300,
+    "frequency": 115,
+    "animation": 56,
+    "again": 76,
+    "ability": [{ "index": 3, "percent": null, "t1": null, "t2": null }],
+    "attribute": [{ "index": 3, "percent": null }],
+    "rarity": 3,
+    "collaboration": true
+  },
+  {
+    "name": "チビガウガウ",
+    "description": "ケリ姫スイーツに登場するキャラクター\n黒い敵からのダメージを大幅に軽減する\nコストが安く黒い敵からの防御に最適",
+    "image": "https://img.game8.jp/1674007/62b69a8684554ecbbdab0e8d934700b7.jpeg/show",
+    "health": 2000,
+    "attack": 617,
+    "dps": 161,
+    "range": 1,
+    "kb": 1,
+    "speed": 8,
+    "reach": 110,
+    "cost": 300,
+    "frequency": 115,
+    "animation": 56,
+    "again": 76,
+    "ability": [{ "index": 3, "percent": null, "t1": null, "t2": null }],
+    "attribute": [{ "index": 3, "percent": null }],
+    "rarity": 3,
+    "collaboration": true
+  }
+]

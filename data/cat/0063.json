@@ -1,0 +1,42 @@
+[
+  {
+    "name": "ネコポン",
+    "description": "プラスチック製のガシャポンマシンに\n入りこんだタンクネコ（範囲攻撃）\n覆われている分、タンクネコより少し頑丈",
+    "image": "https://img.game8.jp/1673995/70418b833aceefd46ee92f95d5320883.jpeg/show",
+    "health": 1125,
+    "attack": 25,
+    "dps": 11,
+    "range": 2,
+    "kb": 1,
+    "speed": 8,
+    "reach": 110,
+    "cost": 150,
+    "frequency": 68,
+    "animation": 9,
+    "again": 60,
+    "ability": [],
+    "attribute": [],
+    "rarity": 2,
+    "collaboration": false
+  },
+  {
+    "name": "ネコポニョン",
+    "description": "プラスチック製のガシャポンマシンに\n入りこんだ少し長めのタンクネコ（範囲攻撃）\n覆われている分、タンクネコより少し頑丈",
+    "image": "https://img.game8.jp/1673997/0b0dad4030e054c6840b13773cb39508.jpeg/show",
+    "health": 1125,
+    "attack": 25,
+    "dps": 11,
+    "range": 2,
+    "kb": 1,
+    "speed": 8,
+    "reach": 110,
+    "cost": 150,
+    "frequency": 68,
+    "animation": 9,
+    "again": 60,
+    "ability": [],
+    "attribute": [],
+    "rarity": 2,
+    "collaboration": false
+  }
+]

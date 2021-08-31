@@ -1,0 +1,68 @@
+[
+  {
+    "name": "ネコシュバリエ",
+    "description": "呪われた剣によって通常攻撃は強くはないが\nたまにクリティカル攻撃を出すことができる\nメタルキラーにゃんこ",
+    "image": "https://img.game8.jp/1674002/f4d6886486a619a8339e7e82132bbe98.jpeg/show",
+    "health": 3250,
+    "attack": 500,
+    "dps": 100,
+    "range": 1,
+    "kb": 3,
+    "speed": 7,
+    "reach": 195,
+    "cost": 2250,
+    "frequency": 150,
+    "animation": 31,
+    "again": 1446,
+    "ability": [{ "index": 7, "percent": 20, "t1": null, "t2": null }],
+    "attribute": [{ "index": null, "percent": null }],
+    "rarity": 5,
+    "collaboration": false
+  },
+  {
+    "name": "ネコベルセルク",
+    "description": "呪われた剣によって我を忘れた\nメタルキラーにゃんこ\nたまにクリティカル攻撃を出すことができる（範囲攻撃）",
+    "image": "https://img.game8.jp/1673993/bb5bd45ed0995d12ee251e8007d05429.jpeg/show",
+    "health": 4500,
+    "attack": 750,
+    "dps": 150,
+    "range": 2,
+    "kb": 3,
+    "speed": 7,
+    "reach": 195,
+    "cost": 2250,
+    "frequency": 150,
+    "animation": 31,
+    "again": 1446,
+    "ability": [{ "index": 7, "percent": 40, "t1": null, "t2": null }],
+    "attribute": [{ "index": null, "percent": null }],
+    "rarity": 5,
+    "collaboration": false
+  },
+  {
+    "name": "ネコパラディン",
+    "description": "剣の呪縛から解放され真の力を取り戻したにゃんこ\n聖なる槍でメタルな敵を討ち滅ぼす\nたまにクリティカル攻撃を出すことができる（範囲攻撃）",
+    "image": "https://img.game8.jp/1700020/51408fb55c2ad0724ce43a1ae064c186.jpeg/show",
+    "health": 5750,
+    "attack": 1000,
+    "dps": 200,
+    "range": 2,
+    "kb": 3,
+    "speed": 7,
+    "reach": 245,
+    "cost": 2250,
+    "frequency": 150,
+    "animation": 31,
+    "again": 1446,
+    "ability": [
+      { "index": 7, "percent": 50, "t1": null, "t2": null },
+      { "index": 33, "percent": null, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": null, "percent": null },
+      { "index": null, "percent": null }
+    ],
+    "rarity": 5,
+    "collaboration": false
+  }
+]

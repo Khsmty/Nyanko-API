@@ -1,0 +1,80 @@
+[
+  {
+    "name": "ねこ寿司",
+    "description": "自ら回転しながら素早く移動できる\n鮮度抜群の高級盾キャラクター（範囲攻撃）\n赤い敵に打たれ強く、まれに攻撃力を下げる",
+    "image": "https://img.game8.jp/1674014/caa65883ef4ccbfba8195f7846a6c0c6.jpeg/show?1528340554",
+    "health": 3750,
+    "attack": 200,
+    "dps": 85,
+    "range": 2,
+    "kb": 2,
+    "speed": 16,
+    "reach": 130,
+    "cost": 1425,
+    "frequency": 71,
+    "animation": 12,
+    "again": 306,
+    "ability": [
+      { "index": 3, "percent": null, "t1": null, "t2": null },
+      { "index": 24, "percent": 20, "t1": 200, "t2": 240 }
+    ],
+    "attribute": [
+      { "index": 1, "percent": null },
+      { "index": 1, "percent": null }
+    ],
+    "rarity": 4,
+    "collaboration": false
+  },
+  {
+    "name": "ねこリーゼント",
+    "description": "自ら回転しながら素早く移動できる\nつっぱり感が…ッパねぇ高級盾キャラ（範囲攻撃）\n赤い敵に打たれ強く、まれに攻撃力を下げる",
+    "image": "https://img.game8.jp/1673992/9154d3724e38baf1e8a46dc5d52b9bcb.jpeg/show?1528340554",
+    "health": 4750,
+    "attack": 450,
+    "dps": 190,
+    "range": 2,
+    "kb": 2,
+    "speed": 16,
+    "reach": 130,
+    "cost": 1425,
+    "frequency": 71,
+    "animation": 12,
+    "again": 306,
+    "ability": [
+      { "index": 3, "percent": null, "t1": null, "t2": null },
+      { "index": 24, "percent": 20, "t1": 200, "t2": 240 }
+    ],
+    "attribute": [
+      { "index": 1, "percent": null },
+      { "index": 1, "percent": null }
+    ],
+    "rarity": 4,
+    "collaboration": false
+  },
+  {
+    "name": "ネコ極上",
+    "description": "わてら敵に回すんやったらイクラでも相手したるで！\nあがりより熱いハートで吠える高級盾キャラ（範囲攻撃）\n赤い敵に打たれ強く、まれに攻撃力を下げる",
+    "image": "https://img.game8.jp/1700187/ae1be4ed0043a7f698eb0bff77a4dbd6.jpeg/show?1529305275",
+    "health": 9500,
+    "attack": 450,
+    "dps": 190,
+    "range": 2,
+    "kb": 2,
+    "speed": 16,
+    "reach": 130,
+    "cost": 1425,
+    "frequency": 71,
+    "animation": 12,
+    "again": 306,
+    "ability": [
+      { "index": 3, "percent": null, "t1": null, "t2": null },
+      { "index": 24, "percent": 20, "t1": 200, "t2": 240 }
+    ],
+    "attribute": [
+      { "index": 1, "percent": null },
+      { "index": 1, "percent": null }
+    ],
+    "rarity": 4,
+    "collaboration": false
+  }
+]

@@ -17,7 +17,7 @@
     "ability": [],
     "attribute": [],
     "rarity": 2,
-    "collaboration": false
+    "collaboration": true
   },
   {
     "name": "フルカラーケリ姫",
@@ -37,7 +37,7 @@
     "ability": [],
     "attribute": [],
     "rarity": 2,
-    "collaboration": false
+    "collaboration": true
   },
   {
     "name": "ウェディングケリ姫",
@@ -57,6 +57,6 @@
     "ability": [],
     "attribute": [],
     "rarity": 2,
-    "collaboration": false
+    "collaboration": true
   }
 ]

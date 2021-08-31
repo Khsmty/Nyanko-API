@@ -1,0 +1,42 @@
+[
+  {
+    "name": "ウシ姫",
+    "description": "振り乱した髪の毛には狂気すら感じる\nウシネコよりもちょっとだけリーチが長い\n黒い敵に超ダメージを与える",
+    "image": "https://img.game8.jp/1674010/8403bee54d9a627a72d9abed0b012b35.jpeg/show",
+    "health": 1250,
+    "attack": 75,
+    "dps": 225,
+    "range": 1,
+    "kb": 5,
+    "speed": 30,
+    "reach": 161,
+    "cost": 750,
+    "frequency": 10,
+    "animation": 6,
+    "again": 60,
+    "ability": [{ "index": 1, "percent": null, "t1": null, "t2": null }],
+    "attribute": [{ "index": 3, "percent": null }],
+    "rarity": 3,
+    "collaboration": true
+  },
+  {
+    "name": "キリン姫",
+    "description": "振り乱した髪の毛には狂気すら感じる\nネコキリンよりもちょっとだけリーチが長い\n黒い敵に超ダメージを与える",
+    "image": "https://img.game8.jp/1674006/e697116711befabe8c4dbb919c10fa53.jpeg/show",
+    "health": 1250,
+    "attack": 75,
+    "dps": 225,
+    "range": 1,
+    "kb": 5,
+    "speed": 30,
+    "reach": 161,
+    "cost": 750,
+    "frequency": 10,
+    "animation": 6,
+    "again": 60,
+    "ability": [{ "index": 1, "percent": null, "t1": null, "t2": null }],
+    "attribute": [{ "index": 3, "percent": null }],
+    "rarity": 3,
+    "collaboration": true
+  }
+]

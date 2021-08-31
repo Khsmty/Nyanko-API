@@ -1,0 +1,42 @@
+[
+  {
+    "name": "剣士",
+    "description": "ケリ姫スイーツに登場するキャラクター\nコラボレーションにより夢の競演",
+    "image": "https://img.game8.jp/1674011/b8fc289ccc4a4d8d8701c62547dda765.jpeg/show",
+    "health": 700,
+    "attack": 100,
+    "dps": 22,
+    "range": 1,
+    "kb": 3,
+    "speed": 6,
+    "reach": 170,
+    "cost": 240,
+    "frequency": 136,
+    "animation": 27,
+    "again": 126,
+    "ability": [],
+    "attribute": [],
+    "rarity": 3,
+    "collaboration": true
+  },
+  {
+    "name": "剣士ジョニー",
+    "description": "ケリ姫スイーツに登場するキャラクター\nコラボレーションにより夢の競演",
+    "image": "https://img.game8.jp/1673999/49724d36a873376d605d4fa3c2348013.jpeg/show",
+    "health": 1400,
+    "attack": 225,
+    "dps": 50,
+    "range": 1,
+    "kb": 3,
+    "speed": 6,
+    "reach": 170,
+    "cost": 240,
+    "frequency": 136,
+    "animation": 27,
+    "again": 126,
+    "ability": [],
+    "attribute": [],
+    "rarity": 3,
+    "collaboration": true
+  }
+]

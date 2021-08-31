@@ -1,0 +1,80 @@
+[
+  {
+    "name": "真田幸村",
+    "description": "伝説の武具「にゃんこ胴」の呪いによって\n鳥の姿へと変えられた戦国武将（範囲攻撃）\n俊敏な動きで黒い敵に超ダメージを与える",
+    "image": "https://img.game8.jp/1674023/05de5b002b8e5430d85ec26ea0364b89.jpeg/show",
+    "health": 2125,
+    "attack": 2062,
+    "dps": 452,
+    "range": 2,
+    "kb": 5,
+    "speed": 65,
+    "reach": 170,
+    "cost": 3075,
+    "frequency": 137,
+    "animation": 1,
+    "again": 1546,
+    "ability": [
+      { "index": 21, "percent": null, "t1": null, "t2": null },
+      { "index": 1, "percent": null, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": null, "percent": null },
+      { "index": 3, "percent": null }
+    ],
+    "rarity": 5,
+    "collaboration": false
+  },
+  {
+    "name": "武神・真田幸村",
+    "description": "伝説の武具「にゃんこ胴」の隠しオプション\nジェットブースターを装着（範囲攻撃）\n俊敏な動きで黒い敵に超ダメージを与える",
+    "image": "https://img.game8.jp/1674029/41dcb7b2d3ea6c081c2a306f97c9d4c1.jpeg/show",
+    "health": 4250,
+    "attack": 4125,
+    "dps": 903,
+    "range": 2,
+    "kb": 5,
+    "speed": 65,
+    "reach": 170,
+    "cost": 3075,
+    "frequency": 137,
+    "animation": 1,
+    "again": 1546,
+    "ability": [
+      { "index": 21, "percent": null, "t1": null, "t2": null },
+      { "index": 1, "percent": null, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": null, "percent": null },
+      { "index": 3, "percent": null }
+    ],
+    "rarity": 5,
+    "collaboration": false
+  },
+  {
+    "name": "飛翔の武神・真田幸村",
+    "description": "更なる速さを求め紅蓮の大翼を手に入れた武神\n風が如く空を切り裂き敵陣に討ち入る（範囲攻撃）\n俊敏な動きで黒い敵に超ダメージを与える",
+    "image": "https://img.game8.jp/1700029/cdce3a64fe4a17f86f9214e289e4da5a.jpeg/show",
+    "health": 4250,
+    "attack": 6187,
+    "dps": 1355,
+    "range": 2,
+    "kb": 5,
+    "speed": 75,
+    "reach": 170,
+    "cost": 3075,
+    "frequency": 137,
+    "animation": 1,
+    "again": 1546,
+    "ability": [
+      { "index": 21, "percent": null, "t1": null, "t2": null },
+      { "index": 1, "percent": null, "t1": null, "t2": null }
+    ],
+    "attribute": [
+      { "index": null, "percent": null },
+      { "index": 3, "percent": null }
+    ],
+    "rarity": 5,
+    "collaboration": false
+  }
+]
